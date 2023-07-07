@@ -1,0 +1,206 @@
+.beige-natural-botanical-skinca {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1246px;
+  height: 1246px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.karma {
+  position: relative;
+  font-weight: 800;
+}
+.behaviour-modification {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--complimentary-colours-sc-orange);
+  text-align: left;
+}
+.karma-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.group-icon {
+  position: absolute;
+  height: 99.55%;
+  width: 117.98%;
+  top: 8.97%;
+  right: -17.98%;
+  bottom: -8.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child1 {
+  position: relative;
+  width: 117.84px;
+  height: 160px;
+}
+.karma-in-ayurveda {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 418px;
+  flex-shrink: 0;
+}
+.group-parent {
+  position: absolute;
+  top: calc(50% - 69.5px);
+  left: 0;
+  width: 555px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.clip-path-group3 {
+  position: absolute;
+  height: 109.85%;
+  width: 100%;
+  top: -9.85%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.clip-path-group-wrapper {
+  position: relative;
+  width: 595px;
+  height: 203px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.recommendation {
+  position: relative;
+}
+.keep-a-food {
+  margin-bottom: 0;
+}
+.keep-a-food-and-bowel-movement {
+  margin: 0;
+  padding-left: var(--padding-lgi);
+}
+.keep-a-food-container {
+  position: relative;
+  font-size: var(--font-inherit);
+  line-height: 150%;
+  font-family: var(--font-inherit);
+  color: var(--black-color);
+  display: inline-block;
+  width: 515px;
+}
+.frame-container,
+.recommendation-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.recommendation-parent {
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--complimentary-colours-sc-orange);
+  font-family: var(--font-lato);
+}
+.frame-container {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.group-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vyayam-the-ayurvedic {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 312px;
+  flex-shrink: 0;
+}
+.frame-child2 {
+  position: relative;
+  width: 160px;
+  height: 171.59px;
+}
+.vyayam-the-ayurvedic-concept-parent {
+  position: absolute;
+  top: 19.24px;
+  left: 77.3px;
+  background-color: var(--color-azure);
+  width: 477px;
+  height: 181.89px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.clip-path-group4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.06%;
+  bottom: 0;
+  left: 0.06%;
+}
+.clip-path-group-frame {
+  position: relative;
+  width: 595px;
+  height: 219px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--black-color);
+  font-family: var(--font-lato);
+}
+.frame-parent1,
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent1 {
+  position: absolute;
+  top: 535px;
+  left: 0;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.temp-13 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--core-colours-core-blue);
+  font-family: var(--font-eb-garamond);
+}

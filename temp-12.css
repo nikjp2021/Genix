@@ -1,0 +1,217 @@
+.beige-natural-botanical-skinca1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1246px;
+  height: 1246px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.oushadhi {
+  position: relative;
+  font-weight: 800;
+}
+.herbal-and-supplement {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--complimentary-colours-sc-orange);
+  text-align: left;
+}
+.oushadhi-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.group-icon2 {
+  position: absolute;
+  height: 99.28%;
+  width: 100%;
+  top: 0.72%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child3 {
+  position: relative;
+  width: 169.15px;
+  height: 160px;
+}
+.aushadhi-in-ayurveda {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 371px;
+  flex-shrink: 0;
+}
+.group-container {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 550px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.clip-path-group5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.clip-path-group-wrapper1 {
+  position: relative;
+  width: 595px;
+  height: 278px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.recommendation2 {
+  position: relative;
+}
+.take-1-2-teaspoons {
+  margin-bottom: 0;
+}
+.take-1-2-teaspoons-of-triphala {
+  margin: 0;
+  padding-left: var(--padding-lgi);
+}
+.take-1-2-teaspoons-container {
+  position: relative;
+  font-size: var(--font-inherit);
+  line-height: 150%;
+  font-family: var(--font-inherit);
+  color: var(--black-color);
+  display: inline-block;
+  width: 515px;
+}
+.frame-parent3,
+.recommendation-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.recommendation-container {
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--complimentary-colours-sc-orange);
+  font-family: var(--font-lato);
+}
+.frame-parent3 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.group-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 99.94%;
+  top: 0;
+  right: 0.06%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kriya-practices-in {
+  margin: 0;
+}
+.kriya-practices-in-container {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 332px;
+  flex-shrink: 0;
+}
+.frame-icon {
+  position: relative;
+  width: 202px;
+  height: 117.48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.kriya-practices-in-ayurveda-ai-parent {
+  position: absolute;
+  top: calc(50% - 104.5px);
+  left: 56.65px;
+  background-color: var(--color-azure);
+  width: 538px;
+  height: 209.56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.clip-path-group6 {
+  position: absolute;
+  height: 99.62%;
+  width: 100%;
+  top: 0;
+  right: -0.06%;
+  bottom: 0.38%;
+  left: 0.06%;
+}
+.clip-path-group-wrapper2 {
+  position: relative;
+  width: 595px;
+  height: 266px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--black-color);
+  font-family: var(--font-lato);
+}
+.frame-parent5,
+.frame-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent6 {
+  height: 346px;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent5 {
+  position: absolute;
+  top: 611px;
+  left: 0;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.temp-12 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1232px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--core-colours-core-blue);
+  font-family: var(--font-eb-garamond);
+}

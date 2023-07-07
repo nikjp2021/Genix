@@ -7,14 +7,33 @@ body {
   /* fonts */
   --font-lora: Lora;
   --font-lato: Lato;
+  --font-inherit: inherit;
+  --font-eb-garamond: "EB Garamond";
 
   /* font sizes */
   --font-size-3xs: 10px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
 
   /* Colors */
+  --color-white: #fff;
+  --black-color: #363636;
   --color-darkslategray: #002a24;
+  --complimentary-colours-sc-orange: #e69138;
+  --color-azure: #e2f5f3;
+  --complimentary-colours-secondary-blue: #1c4587;
+  --core-colours-core-blue: #2c396b;
+  --complimentary-colours-sc-apple-gree: #99b336;
 
   /* Gaps */
   --gap-5xs: 8px;
+  --gap-5xl: 24px;
   --gap-7xs: 6px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-lgi: 19px;
+
+  /* Paddings */
+  --padding-lgi: 19px;
 }

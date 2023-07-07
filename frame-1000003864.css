@@ -1,0 +1,30 @@
+.personalized-wellness-plan {
+  text-transform: uppercase;
+}
+.personalized-wellness-plan-container {
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  width: 515px;
+}
+.for-digestive-issue {
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  font-family: var(--font-lato);
+  color: var(--complimentary-colours-sc-orange);
+  text-align: left;
+}
+.personalized-wellness-plan-parent {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: 44px;
+  color: var(--color-darkslategray);
+  font-family: var(--font-eb-garamond);
+}
