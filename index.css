@@ -1,0 +1,148 @@
+.frame-child,
+.frame-item {
+  position: absolute;
+  left: -170px;
+  width: 799px;
+}
+.frame-child {
+  top: -42px;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0)),
+    linear-gradient(180deg, rgba(255, 255, 255, 0) 75%, #fff),
+    rgba(81, 192, 182, 0.12);
+  height: 1164px;
+}
+.frame-item {
+  top: -160px;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0)),
+    radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0)),
+    radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0)),
+    linear-gradient(180deg, rgba(255, 255, 255, 0) 75%, #fff),
+    rgba(81, 192, 182, 0.24);
+  height: 1154px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 10.02%;
+  width: 72.82%;
+  top: 0;
+  right: -12.1%;
+  bottom: 89.98%;
+  left: 39.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 92.04%;
+  width: 105.88%;
+  right: -5.88%;
+  bottom: 7.96%;
+  left: 0;
+}
+.clip-path-group {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.santhigramayurvedacom {
+  position: relative;
+  line-height: 150%;
+}
+.clip-path-group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+}
+.clip-path-group2 {
+  position: relative;
+  width: 12px;
+  height: 11.91px;
+}
+.riinstagram-fill-icon {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.riinstagram-fill-parent {
+  gap: var(--gap-5xs);
+}
+.frame-inner,
+.frame-parent,
+.riinstagram-fill-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  gap: 24px;
+}
+.frame-inner {
+  position: absolute;
+  top: 1312.31px;
+  left: 0;
+  width: 596px;
+  padding: 8px 24px;
+  box-sizing: border-box;
+}
+.logo-icon {
+  position: relative;
+  width: 140px;
+  height: 73px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logo-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.new-age-of {
+  position: relative;
+  line-height: 134.9%;
+  font-weight: 600;
+}
+.ancient-secrets-and-modern {
+  position: relative;
+  font-size: 11px;
+  line-height: 150%;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.frame-group,
+.new-age-of-wellness-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.new-age-of-wellness-parent {
+  justify-content: center;
+  gap: 5.63px;
+}
+.frame-group {
+  position: absolute;
+  top: 61px;
+  left: calc(50% - 97.5px);
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: 20px;
+  font-family: var(--font-lora);
+}
+.frame {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1357px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-lato);
+}

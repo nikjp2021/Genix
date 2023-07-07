@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lora: Lora;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-darkslategray: #002a24;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-7xs: 6px;
+}
